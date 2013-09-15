@@ -12,5 +12,4 @@ Build:
 
 How to use:
 
-    see example.bat
-
+    see Wiki: How To Use
